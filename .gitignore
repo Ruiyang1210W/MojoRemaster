@@ -1,0 +1,9 @@
+.venv/
+models/
+Eps/**/*.mp4
+Eps/**/*.m4a
+Eps/**/*.mkv
+Eps/**/*.wav
+.env
+__pycache__/
+*.pyc

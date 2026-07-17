@@ -1,0 +1,64 @@
+import argparse
+
+STEP_FUNCS = {}
+
+
+def _lazy_steps():
+    # Imported lazily so `--steps transcribe` alone doesn't require the
+    # DeepSeek API key to be set, etc.
+    if not STEP_FUNCS:
+        from src.transcribe import transcribe_episode
+        from src.translate_srt import translate_srt
+        from src.reindex_srt import reindex_srt_perfect
+        from src.mux_subtitles import mux_subtitles
+        from src import config
+
+        def _transcribe(ep, language):
+            transcribe_episode(ep, language=language)
+
+        def _translate(ep, language):
+            ep_dir = config.episode_dir(ep)
+            translate_srt(ep_dir / "raw_chinese.srt", ep_dir / "raw_english.srt")
+
+        def _reindex(ep, language):
+            ep_dir = config.episode_dir(ep)
+            reindex_srt_perfect(ep_dir / "raw_chinese.srt")
+
+        def _mux(ep, language):
+            mux_subtitles(ep)
+
+        STEP_FUNCS.update(
+            transcribe=_transcribe,
+            translate=_translate,
+            reindex=_reindex,
+            mux=_mux,
+        )
+    return STEP_FUNCS
+
+
+DEFAULT_STEPS = ["transcribe", "translate", "reindex"]
+
+
+def run_pipeline(ep: int, steps=None, language: str = "zh"):
+    steps = steps or DEFAULT_STEPS
+    step_funcs = _lazy_steps()
+    for step in steps:
+        if step not in step_funcs:
+            raise ValueError(f"Unknown step '{step}'. Valid steps: {list(step_funcs)}")
+        print(f"\n{'=' * 60}\n▶ Ep{ep:02d}: {step}\n{'=' * 60}")
+        step_funcs[step](ep, language)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run the Mojo Spy subtitle pipeline for one episode.")
+    parser.add_argument("--ep", type=int, required=True, help="Episode number, e.g. 2")
+    parser.add_argument(
+        "--steps",
+        default=",".join(DEFAULT_STEPS),
+        help=f"Comma-separated steps to run (default: {','.join(DEFAULT_STEPS)}). "
+        f"'mux' is available but opt-in and requires ffmpeg.",
+    )
+    parser.add_argument("--language", default="zh", help="Source language code (default: zh)")
+    args = parser.parse_args()
+
+    run_pipeline(args.ep, steps=args.steps.split(","), language=args.language)
