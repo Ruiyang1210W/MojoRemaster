@@ -11,9 +11,14 @@ content) — only the code and a couple of sample `.srt` outputs.
 
 ```
 source.<ext>  --[transcribe: faster-whisper, GPU]-->  raw_chinese.srt
-              --[translate: DeepSeek]-->               raw_english.srt
-              --[reindex: cleanup]-->                  raw_english.srt (final)
+              --[reindex: cleanup]-->                  raw_chinese.srt (clean numbering)
+              --[MANUAL: native-speaker review/fix]-->  raw_chinese.srt (corrected)
+              --[translate: DeepSeek, run manually]-->  raw_english.srt
 ```
+
+Transcription is never perfect, so `raw_chinese.srt` is meant to be opened and
+corrected by hand before translating — `translate` is intentionally left out of
+the default pipeline run for that reason (see Usage below).
 
 The English `.srt` is uploaded directly to YouTube as a soft-subtitle track — no
 video muxing needed. An optional `mux_subtitles` step exists for burning subtitles
@@ -38,9 +43,16 @@ Drop an episode's video/audio into `Eps/epNN/source.<ext>` (any container works 
 python -m src.pipeline --ep 2
 ```
 
-This runs transcribe → translate → reindex and leaves `raw_chinese.srt` /
-`raw_english.srt` in `Eps/ep02/`. Run a single step instead with `--steps transcribe`,
-or run any step's module directly, e.g. `python -m src.transcribe --ep 2`.
+This runs transcribe → reindex and leaves a cleaned-up `raw_chinese.srt` in
+`Eps/ep02/`. Open it and fix any misheard lines by hand, then translate manually
+once you're happy with it:
+
+```
+python -m src.translate_srt --ep 2
+```
+
+Run a single step instead with `--steps transcribe`, or run any step's module
+directly, e.g. `python -m src.transcribe --ep 2`.
 
 ## Layout
 

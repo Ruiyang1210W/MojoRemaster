@@ -36,7 +36,9 @@ def _lazy_steps():
     return STEP_FUNCS
 
 
-DEFAULT_STEPS = ["transcribe", "translate", "reindex"]
+DEFAULT_STEPS = ["transcribe", "reindex"]
+# 'translate' is run manually after reviewing/fixing raw_chinese.srt by hand,
+# so it's opt-in (--steps translate) rather than part of the default run.
 
 
 def run_pipeline(ep: int, steps=None, language: str = "zh"):
@@ -56,7 +58,8 @@ if __name__ == "__main__":
         "--steps",
         default=",".join(DEFAULT_STEPS),
         help=f"Comma-separated steps to run (default: {','.join(DEFAULT_STEPS)}). "
-        f"'mux' is available but opt-in and requires ffmpeg.",
+        f"'translate' is opt-in (run it after manually reviewing raw_chinese.srt); "
+        f"'mux' is opt-in and requires ffmpeg.",
     )
     parser.add_argument("--language", default="zh", help="Source language code (default: zh)")
     args = parser.parse_args()
