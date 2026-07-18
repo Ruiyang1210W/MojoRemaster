@@ -18,6 +18,11 @@ def _lazy_steps():
 
         def _translate(ep, language):
             ep_dir = config.episode_dir(ep)
+            # Reindex right before translating, not right after transcribing:
+            # decimal indices (16.1, 16.2, ...) only show up once lines have
+            # been manually inserted during proofreading, so reindexing
+            # earlier has nothing to clean up yet.
+            reindex_srt_perfect(ep_dir / "raw_chinese.srt")
             translate_srt(ep_dir / "raw_chinese.srt", ep_dir / "raw_english.srt")
 
         def _reindex(ep, language):
@@ -36,9 +41,10 @@ def _lazy_steps():
     return STEP_FUNCS
 
 
-DEFAULT_STEPS = ["transcribe", "reindex"]
-# 'translate' is run manually after reviewing/fixing raw_chinese.srt by hand,
-# so it's opt-in (--steps translate) rather than part of the default run.
+DEFAULT_STEPS = ["transcribe"]
+# 'translate' (which reindexes raw_chinese.srt right before translating) is
+# run manually after reviewing/fixing raw_chinese.srt by hand, so it's
+# opt-in (--steps translate) rather than part of the default run.
 
 
 def run_pipeline(ep: int, steps=None, language: str = "zh"):
@@ -58,8 +64,9 @@ if __name__ == "__main__":
         "--steps",
         default=",".join(DEFAULT_STEPS),
         help=f"Comma-separated steps to run (default: {','.join(DEFAULT_STEPS)}). "
-        f"'translate' is opt-in (run it after manually reviewing raw_chinese.srt); "
-        f"'mux' is opt-in and requires ffmpeg.",
+        f"'translate' is opt-in (reindexes then translates, run after manually "
+        f"reviewing raw_chinese.srt); 'reindex' alone and 'mux' (needs ffmpeg) "
+        f"are also opt-in.",
     )
     parser.add_argument("--language", default="zh", help="Source language code (default: zh)")
     args = parser.parse_args()

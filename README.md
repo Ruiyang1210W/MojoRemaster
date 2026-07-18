@@ -14,15 +14,18 @@ Watch on YouTube (full series, updating as episodes are finished): https://www.y
 ## Pipeline
 
 ```
-source.<ext>  --[transcribe: faster-whisper, GPU]-->  raw_chinese.srt
-              --[reindex: cleanup]-->                  raw_chinese.srt (clean numbering)
-              --[MANUAL: native-speaker review/fix]-->  raw_chinese.srt (corrected)
-              --[translate: DeepSeek, run manually]-->  raw_english.srt
+source.<ext>  --[transcribe: faster-whisper, GPU]-->      raw_chinese.srt
+              --[MANUAL: native-speaker review/fix]-->     raw_chinese.srt (corrected)
+              --[translate: reindex, then DeepSeek]-->      raw_english.srt
 ```
 
 Transcription is never perfect, so `raw_chinese.srt` is meant to be opened and
 corrected by hand before translating — `translate` is intentionally left out of
-the default pipeline run for that reason (see Usage below).
+the default pipeline run for that reason (see Usage below). Manual edits during
+review are free to use decimal indices (`16.1`, `16.2`, ...) to insert missed
+lines; `translate` reindexes `raw_chinese.srt` back to a clean 1, 2, 3, ...
+sequence immediately before sending it to DeepSeek, so that's the only point
+reindexing needs to happen.
 
 The English `.srt` is uploaded directly to YouTube as a soft-subtitle track — no
 video muxing needed. An optional `mux_subtitles` step exists for burning subtitles
@@ -44,19 +47,19 @@ Drop an episode's video/audio into `Eps/epNN/source.<ext>` (any container works 
 `.mp4`, `.m4a`, etc.), then run:
 
 ```
-python -m src.pipeline --ep 2
+python -m src.pipeline --ep N
 ```
 
-This runs transcribe → reindex and leaves a cleaned-up `raw_chinese.srt` in
-`Eps/ep02/`. Open it and fix any misheard lines by hand, then translate manually
-once you're happy with it:
+This runs transcribe and leaves `raw_chinese.srt` in `Eps/ep02/`. Open it and fix
+any misheard lines by hand (decimal indices like `16.1` are fine for inserting
+missed lines), then translate once you're happy with it:
 
 ```
-python -m src.translate_srt --ep 2
+python -m src.translate_srt --ep N
 ```
 
-Run a single step instead with `--steps transcribe`, or run any step's module
-directly, e.g. `python -m src.transcribe --ep 2`.
+This reindexes `raw_chinese.srt` and translates it into `raw_english.srt` in one
+go. Run any step's module directly if needed, e.g. `python -m src.reindex_srt --ep 2`.
 
 ## Layout
 
@@ -71,8 +74,8 @@ Eps/
 src/
   config.py              paths, CUDA DLL setup
   transcribe.py           faster-whisper -> raw_chinese.srt
-  translate_srt.py        DeepSeek -> raw_english.srt
-  reindex_srt.py          renumber SRT after cleanup
+  translate_srt.py        reindex + DeepSeek -> raw_english.srt
+  reindex_srt.py          renumber SRT (also runnable standalone)
   mux_subtitles.py         optional: burn srt into video (needs ffmpeg)
   pipeline.py              orchestrator
 models/                   Whisper model cache (gitignored)

@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 from src import config
+from src.reindex_srt import reindex_srt_perfect
 
 load_dotenv(config.PROJECT_ROOT / ".env")
 
@@ -119,4 +120,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     ep_dir = config.episode_dir(args.ep)
+    # Reindex right before translating: decimal indices (16.1, 16.2, ...) only
+    # show up after lines are manually inserted during proofreading, so this
+    # is the first point where reindexing actually has something to clean up.
+    reindex_srt_perfect(ep_dir / "raw_chinese.srt")
     translate_srt(ep_dir / "raw_chinese.srt", ep_dir / "raw_english.srt")
