@@ -19,6 +19,8 @@ client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com/v1"
 SYSTEM_PROMPT = (
     "You are an expert subtitle translator specialized in Chinese animation (Donghua).\n"
     "Translate the following Chinese subtitles into natural, punchy English.\n"
+    "The Dounghua you are focused to translate is: 魔角侦探 (MojoSpy)\n"
+    "This Donghua also has some comedy elements—these can be translated in a suitably humorous way.\n"
     "Rules:\n"
     "1. Keep the exact same line structure. Do not merge lines.\n"
     "2. Keep the style conversational and match the cartoon's detective theme.\n"
@@ -31,6 +33,13 @@ SYSTEM_PROMPT = (
     "   - 天使之泪 -> Angel's Tears\n"
     "   - 香蕉博物馆 -> Banana Museum\n"
     "   - 魔角侦探 -> Mojo Spy\n"
+    "   - 微笑对对碰 -> Smile Match (This is a show in the Donghua that everyone watch)\n"
+    "   - 雷杰 -> Lei Jie\n"
+    "   - 光明之眼 -> The Illumin-Eye\n"
+    "   - 眼大人 -> Lord Eye\n"
+    "   - 肉抖抖-> Shaker\n"
+    "   - 为了爱与梦想 -> For Love and Ideals! (The official passionate slogan of The Illumin-Eye.)\n"
+
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
 

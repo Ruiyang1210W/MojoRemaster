@@ -1,4 +1,4 @@
-# Mojo Spy — Subtitle Pipeline
+# MojoSpy — Subtitle Pipeline
 
 A local pipeline that transcribes and translates the Chinese donghua **魔角侦探 (Mojo Spy)**
 into English subtitles, using GPU-accelerated Whisper for transcription and DeepSeek
@@ -6,6 +6,10 @@ for translation.
 
 Source video/audio files are not included in this repo (copyrighted third-party
 content) — only the code and a couple of sample `.srt` outputs.
+
+## Demo
+
+Watch on YouTube (full series, updating as episodes are finished): https://www.youtube.com/playlist?list=PLb238vBzdlPQ
 
 ## Pipeline
 
@@ -76,6 +80,6 @@ models/                   Whisper model cache (gitignored)
 
 ## Roadmap
 
-- [ ] Full season transcribed/translated (currently: Ep1, Ep2 in progress)
-- [ ] Demo clip / before-after sample for the portfolio writeup
+- [x] Ep1 published to YouTube (see Demo above)
+- [ ] Full season transcribed/translated
 - [ ] Per-season glossary config instead of the inline character table
