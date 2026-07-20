@@ -40,6 +40,11 @@ SYSTEM_PROMPT = (
     "   - 眼大人 -> Lord Eye\n"
     "   - 肉抖抖-> Shaker\n"
     "   - 为了爱与梦想 -> For Love and Ideals! (The official passionate slogan of The Illumin-Eye.)\n"
+    "   - 尼亚克-> Niake\n"
+    "   - 小猫咪（狗名）-> Little Kitten\n"
+    "   - 乌贼城-> Squid City\n"
+    "   - 金枪鱼镇 -> Tuna Town\n"
+    "   - 桃乐丝-> Dorothy\n"
 
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
