@@ -45,6 +45,8 @@ SYSTEM_PROMPT = (
     "   - 乌贼城-> Squid City\n"
     "   - 金枪鱼镇 -> Tuna Town\n"
     "   - 桃乐丝-> Dorothy\n"
+    "   - 小MU-> Miss MU\n"
+    "   - 文康-> Wen Kang\n"
 
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
