@@ -47,6 +47,7 @@ SYSTEM_PROMPT = (
     "   - 桃乐丝-> Dorothy\n"
     "   - 小MU-> Miss MU\n"
     "   - 文康-> Wen Kang\n"
+    "   - 晓露-> Xiaolu\n"
 
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
@@ -55,7 +56,7 @@ SYSTEM_PROMPT = (
 def translate_text(text_block):
     """把这一批台词打包喂给 DeepSeek-V3/Coder 展现最强上下文翻译"""
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="deepseek-v4-flash",
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": f"Translate these lines. Keep the exact line breaks:\n\n{text_block}"},
