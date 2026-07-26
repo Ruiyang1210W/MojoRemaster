@@ -1,0 +1,563 @@
+1
+00:00:00,000 --> 00:00:11,000
+Mojo Mojo Mojo Spy
+
+2
+00:00:11,000 --> 00:00:23,000
+Mojo Mojo Mojo Spy
+
+3
+00:00:23,000 --> 00:00:26,000
+This world is full of colors bright
+
+4
+00:00:26,000 --> 00:00:29,000
+Truth and lies confuse our sight
+
+5
+00:00:29,000 --> 00:00:32,000
+Look with your heart, see the light
+
+6
+00:00:32,000 --> 00:00:35,000
+Find the truth is in plain sight
+
+7
+00:00:35,000 --> 00:00:36,000
+Hey you could do better
+
+8
+00:00:36,000 --> 00:00:38,000
+Truth and lies
+
+9
+00:00:38,000 --> 00:00:41,000
+Can't escape the ash of the mind
+
+10
+00:00:41,000 --> 00:00:44,000
+Take all your courage, be brave
+
+11
+00:00:44,000 --> 00:00:47,000
+Maybe you can save the world today
+
+12
+00:00:47,000 --> 00:00:50,000
+Mojo Mojo Mojo Spy
+
+13
+00:00:50,000 --> 00:00:53,000
+Mojo Mojo Mojo Spy
+
+14
+00:00:53,000 --> 00:00:55,000
+Mojo Mojo Mojo Spy
+
+15
+00:00:55,000 --> 00:00:59,000
+Mojo Spy Mojo Spy
+
+16
+00:01:08,000 --> 00:01:09,000
+Crazy party
+
+17
+00:01:15,000 --> 00:01:16,000
+Yo ho!
+
+18
+00:01:18,000 --> 00:01:20,000
+That's all for this episode of Smile Match!
+
+19
+00:01:20,000 --> 00:01:22,000
+In the next episode,
+
+20
+00:01:22,000 --> 00:01:22,000
+we'll invite many famous detectives from Tuna Town and mysterious guests
+
+21
+00:01:25,000 --> 00:01:33,560
+to compete in three areas: talent, intelligence, and physical strength.
+
+22
+00:01:33,560 --> 00:01:36,280
+Not to mention,
+
+23
+00:01:36,280 --> 00:01:41,340
+we are incredibly honored to have invited the three super awesome,
+
+24
+00:01:41,340 --> 00:01:45,299
+super cute directors who worked on this show to be the judges.
+
+25
+00:01:45,299 --> 00:01:49,319
+The three director judges promise
+
+26
+00:01:49,319 --> 00:01:53,740
+They will grant one wish to the winner of each round.
+
+27
+00:01:53,740 --> 00:01:59,080
+And an ultimate wish for the final winner!
+
+28
+00:01:59,080 --> 00:02:03,420
+This is everyone's favorite show, Smile Match!
+
+29
+00:02:03,420 --> 00:02:06,560
+I'm the beloved host, Miss MU!
+
+30
+00:02:06,560 --> 00:02:09,340
+Our slogan is: Smile Match—
+
+31
+00:02:09,340 --> 00:02:11,280
+Match and smile!
+
+32
+00:02:11,280 --> 00:02:14,420
+Uncle!
+
+33
+00:02:14,420 --> 00:02:17,560
+Can we really be on the next episode of Smile Match?
+
+34
+00:02:17,560 --> 00:02:20,060
+Of course, Locky.
+
+35
+00:02:20,060 --> 00:02:22,760
+We've already been invited by the TV station.
+
+36
+00:02:22,759 --> 00:02:25,379
+The winner gets to make a wish.
+
+37
+00:02:25,379 --> 00:02:28,179
+That's so tempting!
+
+38
+00:02:28,179 --> 00:02:30,120
+If I win,
+
+39
+00:02:30,120 --> 00:02:31,340
+What would I wish for?
+
+40
+00:02:31,340 --> 00:02:32,439
+Oh, right.
+
+41
+00:02:32,439 --> 00:02:35,000
+I've always hated my character design.
+
+42
+00:02:35,000 --> 00:02:36,419
+Why do I have to wear this hat
+
+43
+00:02:36,419 --> 00:02:38,539
+even when I'm bathing, like an idiot?
+
+44
+00:02:38,539 --> 00:02:41,939
+I want a new look.
+
+45
+00:02:41,939 --> 00:02:44,060
+I want to be more charming.
+
+46
+00:02:44,060 --> 00:02:47,159
+I want Officer Han to fall for me! Hehehe.
+
+47
+00:02:47,159 --> 00:02:50,819
+My wish is—
+
+48
+00:02:50,819 --> 00:02:57,299
+To become the revered great detective of Tuna Town!
+
+49
+00:02:57,299 --> 00:03:20,259
+Smile Match is starting!
+
+50
+00:03:20,259 --> 00:03:23,120
+I'm the ever-popular host, Miss MU!
+
+51
+00:03:23,120 --> 00:03:24,659
+Tonight's show welcomes
+
+52
+00:03:24,659 --> 00:03:25,859
+Many of Tuna Town's
+
+53
+00:03:25,859 --> 00:03:28,299
+Famous detective and mysterious guest
+
+54
+00:03:28,299 --> 00:03:30,039
+And by the directors of this show.
+
+55
+00:03:30,039 --> 00:03:31,299
+Let's pick the winner!
+
+56
+00:03:31,299 --> 00:03:33,280
+Today's competition battle
+
+57
+00:03:33,280 --> 00:03:35,159
+It's gonna be super intense!
+
+58
+00:03:35,159 --> 00:03:37,139
+In today's match...
+
+59
+00:03:37,139 --> 00:03:38,739
+Winner of each round.
+
+60
+00:03:38,739 --> 00:03:40,099
+Everyone gets a chance to be satisfied.
+
+61
+00:03:40,099 --> 00:03:41,419
+A wish of my own.
+
+62
+00:03:41,419 --> 00:03:43,519
+Enough small talk.
+
+63
+00:03:43,519 --> 00:03:45,060
+Let's welcome our two teams!
+
+64
+00:03:45,060 --> 00:03:46,620
+Contestants, enter!
+
+65
+00:03:46,620 --> 00:03:48,479
+First up, let's welcome our
+
+66
+00:03:48,480 --> 00:03:51,480
+Sweetheart Bombers
+
+67
+00:03:58,480 --> 00:04:02,480
+Next up is our Pink High-Voltage Team!
+
+68
+00:04:14,480 --> 00:04:17,480
+That lady looks so strange.
+
+69
+00:04:17,480 --> 00:04:18,480
+Now this is even stranger...
+
+70
+00:04:22,480 --> 00:04:23,620
+Hey, what are you doing here?
+
+71
+00:04:23,620 --> 00:04:25,900
+Why can't I come?
+
+72
+00:04:25,900 --> 00:04:30,480
+Are you here to challenge me for the title of Great Detective?
+
+73
+00:04:30,480 --> 00:04:33,480
+I won't let you get away with this!
+
+74
+00:04:34,819 --> 00:04:38,939
+You two little detectives are bursting with energy!
+
+75
+00:04:38,939 --> 00:04:42,379
+Hope you two can both be in today's competition.
+
+76
+00:04:42,379 --> 00:04:44,620
+A breathtaking performance that stunned everyone.
+
+77
+00:04:44,620 --> 00:04:45,620
+Okay.
+
+78
+00:04:45,620 --> 00:04:47,620
+So now, let's start with our first segment.
+
+79
+00:04:47,620 --> 00:04:51,620
+Talent Showdown: Dance Battle
+
+80
+00:04:57,620 --> 00:05:00,620
+Pretty cop, pretty cop, Officer Han!
+
+81
+00:05:00,620 --> 00:05:03,620
+Love you, love you, love you all!
+
+82
+00:05:05,620 --> 00:05:08,620
+Officer Han, I love you!
+
+83
+00:05:09,620 --> 00:05:13,620
+Officer Han, I love you.
+
+84
+00:05:14,620 --> 00:05:15,620
+Okay
+
+85
+00:05:29,620 --> 00:05:31,620
+What a lousy show!
+
+86
+00:06:44,620 --> 00:06:46,620
+Whoa!
+
+87
+00:06:49,620 --> 00:06:51,620
+That performance was amazing!
+
+88
+00:06:51,620 --> 00:06:54,620
+Never thought all our guests were such pros!
+
+89
+00:06:54,620 --> 00:06:59,620
+Now, let's hand it over to the three director judges.
+
+90
+00:06:59,620 --> 00:07:02,620
+They will select the winner of this talent segment.
+
+91
+00:07:02,620 --> 00:07:06,620
+And make the winner's first wish come true.
+
+92
+00:07:06,620 --> 00:07:15,180
+The winner of this round is Jimmy Chen.
+
+93
+00:07:15,180 --> 00:07:20,579
+Never thought it would be me.
+
+94
+00:07:20,579 --> 00:07:33,959
+Congratulations, Jimmy Chen.
+
+95
+00:07:33,959 --> 00:07:35,759
+Tell me your wish.
+
+96
+00:07:35,759 --> 00:07:38,759
+Is it really me? Is it really me?
+
+97
+00:07:38,759 --> 00:07:40,759
+Can it really grant my wish?
+
+98
+00:07:40,759 --> 00:07:42,759
+Really? Really? Really?
+
+99
+00:07:42,759 --> 00:07:43,759
+Yes.
+
+100
+00:07:43,759 --> 00:07:46,759
+Cartoon directors never lie.
+
+101
+00:07:46,759 --> 00:07:48,759
+Alright
+
+102
+00:07:48,759 --> 00:07:50,759
+Maybe this sounds ridiculous
+
+103
+00:07:50,759 --> 00:07:52,759
+But I've held it in far too long
+
+104
+00:07:52,759 --> 00:07:53,759
+I have to say it now
+
+105
+00:07:53,759 --> 00:07:55,759
+I've never been happy with how I look
+
+106
+00:08:00,759 --> 00:08:03,759
+Why must I always wear this weird hat
+
+107
+00:08:03,759 --> 00:08:06,420
+Can't even take it off when I shower
+
+108
+00:08:06,420 --> 00:08:09,420
+I hate my image
+
+109
+00:08:09,420 --> 00:08:12,800
+My wish is to get rid of this stupid hat
+
+110
+00:08:12,800 --> 00:08:15,000
+I want to be more charming
+
+111
+00:08:15,000 --> 00:08:18,240
+I want to make myself more attractive
+
+112
+00:08:18,240 --> 00:08:23,639
+Fine
+
+113
+00:08:23,639 --> 00:08:26,039
+Your wish is granted
+
+114
+00:08:33,759 --> 00:08:50,139
+Locky Qi
+
+115
+00:08:50,139 --> 00:08:50,919
+Don't be scared
+
+116
+00:08:50,919 --> 00:08:53,200
+No matter how handsome your old uncle becomes
+
+117
+00:08:53,200 --> 00:08:55,000
+He's still your uncle
+
+118
+00:08:55,000 --> 00:08:56,460
+Don't worry
+
+119
+00:08:56,460 --> 00:08:58,299
+I definitely won't complain
+
+120
+00:08:58,299 --> 00:08:59,600
+That my nephew's face
+
+121
+00:08:59,600 --> 00:09:00,899
+Is so ordinary
+
+122
+00:09:00,899 --> 00:09:02,159
+Even if people mistake me
+
+123
+00:09:02,159 --> 00:09:05,159
+And think you're not my real nephew
+
+124
+00:09:05,159 --> 00:09:06,159
+But—
+
+125
+00:09:19,159 --> 00:09:20,159
+What is this supposed to mean?
+
+126
+00:09:20,159 --> 00:09:22,159
+This is what you call a makeover?
+
+127
+00:09:22,159 --> 00:09:24,159
+No need to thank me.
+
+128
+00:09:24,159 --> 00:09:27,159
+I’m happy to bring joy to others.
+
+129
+00:09:27,159 --> 00:09:29,159
+Liar.
+
+130
+00:09:32,159 --> 00:09:35,159
+Let me go.
+
+131
+00:09:35,159 --> 00:09:36,159
+Hi.
+
+132
+00:09:36,159 --> 00:09:38,159
+Smile Match
+
+133
+00:09:38,159 --> 00:09:41,159
+More excitement after the commercial break.
+
+134
+00:09:41,159 --> 00:09:42,159
+Okay.
+
+135
+00:09:42,159 --> 00:09:43,159
+Fruit
+
+136
+00:09:43,159 --> 00:09:44,159
+Juice
+
+137
+00:10:02,159 --> 00:10:32,139
+[Ending Theme]
+
+138
+00:10:32,159 --> 00:10:37,480
+My bright eyes are sparkling
+
+139
+00:10:37,480 --> 00:10:40,819
+A smile facing the sunlight
+
+140
+00:10:40,819 --> 00:10:43,459
+Treading softly
+
+141
+00:10:43,459 --> 00:10:46,079
+At the silent crossroads

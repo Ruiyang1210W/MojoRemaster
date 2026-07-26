@@ -48,6 +48,7 @@ SYSTEM_PROMPT = (
     "   - 小MU-> Miss MU\n"
     "   - 文康-> Wen Kang\n"
     "   - 晓露-> Xiaolu\n"
+    "   - 韩警花-> Cop Beauty Han\n"
 
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
