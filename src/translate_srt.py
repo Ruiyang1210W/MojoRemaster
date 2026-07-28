@@ -1,5 +1,6 @@
 import argparse
 import os
+import re
 
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -58,6 +59,16 @@ SYSTEM_PROMPT = (
 )
 
 
+CJK_RE = re.compile(r"[一-鿿]")
+
+
+def looks_untranslated(text: str) -> bool:
+    """DeepSeek occasionally echoes a batch back verbatim instead of
+    translating it (same line count, so the count check alone misses it).
+    Flag any 'translated' line that still contains Chinese characters."""
+    return bool(CJK_RE.search(text))
+
+
 def translate_text(text_block):
     """把这一批台词打包喂给 DeepSeek-V3/Coder 展现最强上下文翻译"""
     response = client.chat.completions.create(
@@ -107,12 +118,17 @@ def translate_srt(input_path, output_path, batch_size=25):
                 if len(translated_lines) == len(current_batch_texts):
                     for i, t_text in enumerate(translated_lines):
                         orig_idx, orig_time = current_batch_indices[i]
+                        if looks_untranslated(t_text):
+                            print(f"⚠️ 第 {orig_idx} 条疑似未翻译（原样返回中文），正在单句重试...")
+                            t_text = translate_text(current_batch_texts[i])
                         translated_blocks.append(f"{orig_idx}\n{orig_time}\n{t_text}")
                 else:
                     print(f"⚠️ [批次 {idx // batch_size + 1}] 翻译结果行数不对等，正在启动高精度单句兜底...")
                     for i, orig_text in enumerate(current_batch_texts):
                         orig_idx, orig_time = current_batch_indices[i]
                         single_t = translate_text(orig_text)
+                        if looks_untranslated(single_t):
+                            print(f"⚠️ 第 {orig_idx} 条单句重试后仍疑似未翻译，请人工检查: {single_t!r}")
                         translated_blocks.append(f"{orig_idx}\n{orig_time}\n{single_t}")
             except Exception as e:
                 print(f"❌ 翻译出错: {e}")
