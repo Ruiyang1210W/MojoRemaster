@@ -49,6 +49,10 @@ SYSTEM_PROMPT = (
     "   - 文康-> Wen Kang\n"
     "   - 晓露-> Xiaolu\n"
     "   - 韩警花-> Cop Beauty Han\n"
+    "   - 小桃-> Dottie\n"
+    "   - 任天糖-> Nintendough\n"
+    "   - 小叶/叶千金-> Ye/Princess Ye\n"
+    "   - 海洋公主像-> Ocean Princess statue\n"
 
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
