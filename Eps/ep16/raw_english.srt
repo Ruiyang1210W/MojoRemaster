@@ -1,0 +1,651 @@
+1
+00:00:00,000 --> 00:00:04,000
+[Theme Song]
+
+2
+00:00:04,000 --> 00:00:06,000
+Electric Addiction
+
+3
+00:00:06,000 --> 00:00:08,000
+Magi
+
+4
+00:00:08,000 --> 00:00:10,000
+The world!
+
+5
+00:00:10,000 --> 00:00:12,000
+Knight
+
+6
+00:00:12,000 --> 00:00:23,000
+MOJO MOJO MOJO SPY
+
+7
+00:00:23,000 --> 00:00:24,420
+LET'S GO
+
+8
+00:00:24,420 --> 00:00:27,260
+This world, a riot of colors.
+
+9
+00:00:27,260 --> 00:00:30,260
+Truth and lies deceive our eyes.
+
+10
+00:00:30,260 --> 00:00:33,260
+Look with your heart.
+
+11
+00:00:33,260 --> 00:00:36,260
+The truth is right at the courtyard.
+
+12
+00:00:36,260 --> 00:00:39,260
+Hey you good or bad, truths and lies
+
+13
+00:00:39,260 --> 00:00:42,260
+Can't escape the gray smoke in this heart.
+
+14
+00:00:42,260 --> 00:00:45,260
+Take all your courage
+
+15
+00:00:45,260 --> 00:00:48,260
+Maybe that's how we save the world.
+
+16
+00:00:48,260 --> 00:00:50,260
+Mojo Mojo Mojo Spy
+
+17
+00:00:50,260 --> 00:00:53,260
+Mojo Mojo Mojo Spy
+
+18
+00:00:53,260 --> 00:00:56,260
+Mojo Mojo Mojo Spy
+
+19
+00:00:56,259 --> 00:01:00,259
+The Case of the Lost Voice
+
+20
+00:01:26,260 --> 00:01:28,260
+I'm late! I'm late!
+
+21
+00:01:29,260 --> 00:01:31,260
+I'm late! I'm late! I'm late!
+
+22
+00:01:42,260 --> 00:01:44,260
+Late! Late! Late!
+
+23
+00:01:44,260 --> 00:01:46,260
+It's time for the daily morning news.
+
+24
+00:01:46,260 --> 00:01:48,260
+Last night, two residents of this town
+
+25
+00:01:48,260 --> 00:01:50,260
+Mysteriously, its voice vanished.
+
+26
+00:01:50,260 --> 00:01:53,260
+Apparently, the town doctors have no clue about this strange illness.
+
+27
+00:01:53,260 --> 00:01:56,260
+So far they can't figure out the cause or treatment.
+
+28
+00:01:57,260 --> 00:01:58,260
+Losing one's voice overnight is truly baffling.
+
+29
+00:01:58,260 --> 00:01:59,260
+These two residents, before losing their voices,
+
+30
+00:01:59,260 --> 00:02:01,260
+had just taken part in the recording of Treasure Match.
+
+31
+00:02:02,260 --> 00:02:05,260
+Could it be that seeing Miss MU in person made them so excited they lost their voices?
+
+32
+00:02:07,260 --> 00:02:09,259
+I can only wish them good luck.
+
+33
+00:02:09,259 --> 00:02:11,259
+This is Tuna Town Morning News.
+
+34
+00:02:11,259 --> 00:02:13,259
+We'll be right back after these ads.
+
+35
+00:02:21,259 --> 00:02:23,259
+Uh-oh~
+
+36
+00:02:23,259 --> 00:02:26,259
+Hello everyone!
+
+37
+00:02:26,259 --> 00:02:29,259
+This is Treasure Match, the special Sunday program.
+
+38
+00:02:29,259 --> 00:02:32,259
+I'm the lovable Miss MU.
+
+39
+00:02:32,259 --> 00:02:34,259
+Miss MU, we're off to school!
+
+40
+00:02:34,259 --> 00:02:35,259
+Goodbye!
+
+41
+00:02:49,259 --> 00:02:51,259
+Late, late, late!
+
+42
+00:02:53,259 --> 00:02:56,259
+Is that person here to hire Uncle for a case?
+
+43
+00:02:56,259 --> 00:03:00,259
+De- De- Detective Chen?
+
+44
+00:03:06,259 --> 00:03:07,259
+So,
+
+45
+00:03:07,259 --> 00:03:09,259
+What can I do for you?
+
+46
+00:03:15,259 --> 00:03:16,259
+Three days ago,
+
+47
+00:03:16,259 --> 00:03:19,259
+After taking part in the recording of Treasure Match,
+
+48
+00:03:19,259 --> 00:03:21,259
+my most precious treasure, the fish basin,
+
+49
+00:03:21,259 --> 00:03:24,099
+that fish basin was mysteriously stolen.
+
+50
+00:03:24,099 --> 00:03:27,379
+Later, I received a call from the thief.
+
+51
+00:03:27,379 --> 00:03:29,759
+Let me go to the outskirts this morning
+
+52
+00:03:29,759 --> 00:03:31,799
+to the Misty Bamboo Grove to retrieve it
+
+53
+00:03:31,799 --> 00:03:34,879
+Why not notify the police?
+
+54
+00:03:34,879 --> 00:03:38,620
+The fish bowl is too precious to me
+
+55
+00:03:38,620 --> 00:03:41,180
+I must ensure it's unharmed
+
+56
+00:03:41,180 --> 00:03:43,879
+If the gang finds out
+
+57
+00:03:43,879 --> 00:03:45,439
+I notified the police...
+
+58
+00:03:45,439 --> 00:03:49,159
+So I'd like to ask for your help
+
+59
+00:03:49,159 --> 00:03:52,620
+Understood
+
+60
+00:03:52,620 --> 00:03:53,400
+I'll help you
+
+61
+00:03:53,400 --> 00:03:54,579
+Really?
+
+62
+00:03:54,579 --> 00:03:56,079
+Great
+
+63
+00:03:56,079 --> 00:03:57,659
+What's the commission fee?
+
+64
+00:03:57,659 --> 00:03:58,560
+That's not urgent
+
+65
+00:03:58,560 --> 00:04:01,340
+Misty Bamboo Grove
+
+66
+00:04:01,340 --> 00:04:02,960
+I need some equipment
+
+67
+00:04:12,960 --> 00:04:14,479
+Aren't you going to class?
+
+68
+00:04:30,960 --> 00:04:33,479
+[Misty Bamboo Grove, Morning]
+
+69
+00:04:44,480 --> 00:04:45,759
+The meeting time is almost here
+
+70
+00:04:45,759 --> 00:04:46,920
+Steady
+
+71
+00:04:46,920 --> 00:04:50,939
+Report!
+
+72
+00:04:50,939 --> 00:04:54,439
+Reporting to Officer Han
+
+73
+00:04:54,439 --> 00:04:56,900
+Thermal cameras from all angles are installed
+
+74
+00:04:56,900 --> 00:05:00,480
+Thank you both for lending me this high-end equipment
+
+75
+00:05:00,480 --> 00:05:04,980
+Fighting criminals is what the police should do
+
+76
+00:05:04,980 --> 00:05:07,480
+But I have a small request
+
+77
+00:05:07,480 --> 00:05:09,080
+I hope you can grant it
+
+78
+00:05:09,080 --> 00:05:11,740
+Shh, time is almost up
+
+79
+00:05:14,480 --> 00:05:19,400
+I'm suffocating
+
+80
+00:05:19,400 --> 00:05:20,180
+Looks like to be a detective
+
+81
+00:05:20,180 --> 00:05:21,400
+You need superhuman endurance
+
+82
+00:05:21,400 --> 00:05:31,759
+Hey! Anyone there?
+
+83
+00:05:31,759 --> 00:05:36,259
+I've arrived at the agreed spot
+
+84
+00:05:36,259 --> 00:05:37,480
+Mr. Robber
+
+85
+00:05:37,480 --> 00:05:38,800
+Where are you?
+
+86
+00:05:38,800 --> 00:05:40,840
+I've brought the money you asked for
+
+87
+00:05:40,840 --> 00:05:43,439
+Can you return my precious fish basin to me?
+
+88
+00:05:43,439 --> 00:05:44,639
+Please, I beg you
+
+89
+00:05:44,639 --> 00:05:46,000
+You can take whatever you want
+
+90
+00:05:46,000 --> 00:05:47,000
+My fishing rod
+
+91
+00:05:47,000 --> 00:05:47,779
+My fishing boat
+
+92
+00:05:47,779 --> 00:05:49,860
+And my little fish hat
+
+93
+00:05:49,860 --> 00:05:51,839
+I'll give you all of them
+
+94
+00:05:51,839 --> 00:05:53,660
+I only beg you
+
+95
+00:05:53,660 --> 00:05:58,120
+Please give back my precious fish basin
+
+96
+00:05:58,120 --> 00:06:03,180
+Haha, you want the fish basin?
+
+97
+00:06:03,180 --> 00:06:08,639
+Found them
+
+98
+00:06:08,639 --> 00:06:09,860
+It's two people
+
+99
+00:06:09,860 --> 00:06:18,580
+Dare to call the cops
+
+100
+00:06:18,580 --> 00:06:20,480
+Over there
+
+101
+00:06:20,480 --> 00:06:21,879
+On the bamboo behind the fisherman
+
+102
+00:06:21,879 --> 00:06:26,939
+Stop right there!
+
+103
+00:06:26,939 --> 00:06:28,680
+Or I'll shoot.
+
+104
+00:06:28,680 --> 00:06:33,360
+Catch me if you can!
+
+105
+00:06:33,360 --> 00:06:37,439
+Escape? Did he get away?
+
+106
+00:06:37,439 --> 00:06:38,180
+How dare he!
+
+107
+00:06:38,180 --> 00:06:54,899
+I've decided to forbid you from now on
+
+108
+00:06:54,899 --> 00:06:56,180
+from intervening in all case investigations.
+
+109
+00:06:56,180 --> 00:06:58,060
+Uncle Sima, don't be so heartless.
+
+110
+00:06:58,060 --> 00:07:00,439
+Jingjing,
+
+111
+00:07:00,439 --> 00:07:02,920
+from now on you will watch Locky Qi
+
+112
+00:07:02,920 --> 00:07:03,680
+step by step.
+
+113
+00:07:03,680 --> 00:07:05,680
+Make sure he goes to and from school on time every day,
+
+114
+00:07:05,680 --> 00:07:07,139
+and never again let him join case investigations.
+
+115
+00:07:07,139 --> 00:07:07,680
+Yes.
+
+116
+00:07:07,680 --> 00:07:12,019
+But Jingjing likes solving cases with Locky.
+
+117
+00:07:12,019 --> 00:07:13,180
+Jingjing!
+
+118
+00:07:13,180 --> 00:07:16,180
+You're finally on my side.
+
+119
+00:07:16,180 --> 00:07:22,360
+Double the daily juice supply,
+
+120
+00:07:22,360 --> 00:07:25,280
+plus the latest Miss MU poster.
+
+121
+00:07:25,280 --> 00:07:27,519
+Reporting to Uncle Sima!
+
+122
+00:07:27,519 --> 00:07:29,780
+I'll definitely keep a tight watch on Locky!
+
+123
+00:07:29,780 --> 00:07:30,740
+Traitor!
+
+124
+00:07:30,740 --> 00:07:40,340
+Rolling around, rolling around, tired of rolling.
+
+125
+00:07:40,340 --> 00:07:44,139
+Uncle Sima doesn't even know where to go investigate cases.
+
+126
+00:07:44,139 --> 00:07:47,759
+What case did that fisherman ask Uncle about?
+
+127
+00:07:47,759 --> 00:07:51,420
+At the time, I think I saw him hand Uncle a photo.
+
+128
+00:07:51,420 --> 00:07:54,840
+What was the picture on that photo?
+
+129
+00:07:57,840 --> 00:07:59,680
+Too bad I messed everything up.
+
+130
+00:07:59,680 --> 00:08:02,680
+Uncle won't let me join the investigation anymore.
+
+131
+00:08:04,680 --> 00:08:07,680
+Uncle must have locked that photo in the secret room.
+
+132
+00:08:07,680 --> 00:08:08,680
+I really want to go in and see it.
+
+133
+00:08:08,680 --> 00:08:12,680
+But Uncle always keeps the key to the secret room on him.
+
+134
+00:08:12,680 --> 00:08:15,680
+And now he assigned a little guard to watch me day and night.
+
+135
+00:08:24,680 --> 00:08:27,680
+Uncle actually gave her the key instead of me.
+
+136
+00:08:27,680 --> 00:08:30,680
+I'm his own nephew!
+
+137
+00:08:40,680 --> 00:08:43,680
+Jingjing, what are you doing?
+
+138
+00:08:43,680 --> 00:08:47,680
+Watching TV.
+
+139
+00:08:47,680 --> 00:08:49,680
+Uncle told you not to run around.
+
+140
+00:08:49,680 --> 00:08:51,680
+No, I won't run around.
+
+141
+00:08:51,680 --> 00:08:54,680
+I just wanted to ask if you want to watch Miss MU's show.
+
+142
+00:08:54,680 --> 00:08:58,300
+Yes, yes, yes! I don't understand that show at all.
+
+143
+00:08:58,640 --> 00:09:03,040
+I see. I saw you were bored downstairs, so I came specifically to tell you.
+
+144
+00:09:03,620 --> 00:09:12,520
+I know there's a VHS tape at home. The content is a TV show from a few days ago, hosted by Miss MU, called Treasure Match.
+
+145
+00:09:13,080 --> 00:09:15,080
+I wonder if you'd like to watch it?
+
+146
+00:09:16,540 --> 00:09:17,860
+Wow, yes, I want to!
+
+147
+00:09:17,860 --> 00:09:21,779
+But that tape was recorded by Uncle.
+
+148
+00:09:21,779 --> 00:09:24,860
+You know Uncle is very stingy.
+
+149
+00:09:24,860 --> 00:09:28,580
+He locks all the tapes in his own secret room.
+
+150
+00:09:28,580 --> 00:09:30,779
+I don't have the key.
+
+151
+00:09:30,779 --> 00:09:32,980
+I really can't take it out to show you
+
+152
+00:09:32,980 --> 00:09:36,019
+Such a pity
+
+153
+00:09:36,019 --> 00:09:38,320
+The show was truly wonderful
+
+154
+00:09:38,320 --> 00:09:39,879
+I have the key
+
+155
+00:09:47,860 --> 00:09:54,940
+It's really not like being lonely and alone
+
+156
+00:09:54,940 --> 00:10:02,879
+At times in life, there's inevitably some unhappiness
+
+157
+00:10:02,879 --> 00:10:10,379
+Bidding farewell to today always leaves one feeling lost
+
+158
+00:10:10,379 --> 00:10:18,200
+Look at tomorrow—it's waving to me on the horizon
+
+159
+00:10:18,200 --> 00:10:25,840
+Every day, as the sun rises and sets, time turns, and I dream more
+
+160
+00:10:25,840 --> 00:10:30,899
+Looking forward to every second, every moment in life
+
+161
+00:10:30,899 --> 00:10:37,620
+My bright eyes are sparkling
+
+162
+00:10:37,620 --> 00:10:40,980
+A smile facing the sunlight
+
+163
+00:10:40,980 --> 00:10:46,220
+Stepping quietly at the crossroads where screams echo

@@ -54,6 +54,8 @@ SYSTEM_PROMPT = (
     "   - 任天糖-> Nintendough\n"
     "   - 小叶/叶千金-> Ye/Princess Ye\n"
     "   - 海洋公主像-> Ocean Princess statue\n"
+    "   - 鱼盆-> fish basin\n"
+    "   - 迷雾竹林-> Misty Bamboo Grove\n"
 
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
