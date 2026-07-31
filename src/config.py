@@ -51,8 +51,14 @@ def setup_cuda_dlls() -> None:
     """
     if sys.platform != "win32":
         return
-    venv_site_packages = PROJECT_ROOT / ".venv" / "Lib" / "site-packages"
+    # sys.prefix is the currently active venv's root, whatever it's named
+    # (.venv, .venv2, ...) — don't hardcode a folder name here.
+    venv_site_packages = Path(sys.prefix) / "Lib" / "site-packages"
     for pkg_bin in (r"nvidia\cublas\bin", r"nvidia\cudnn\bin"):
         dll_dir = venv_site_packages / pkg_bin
-        if dll_dir.is_dir():
-            os.add_dll_directory(str(dll_dir))
+        try:
+            if dll_dir.is_dir():
+                os.add_dll_directory(str(dll_dir))
+        except OSError:
+            # A stale/corrupted directory entry shouldn't be fatal here.
+            continue
