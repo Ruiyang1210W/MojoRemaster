@@ -1,0 +1,583 @@
+1
+00:00:00,000 --> 00:00:10,000
+Mojo Mojo Mojo Spy
+
+2
+00:00:10,000 --> 00:00:23,000
+Mojo Mojo Mojo Spy
+
+3
+00:00:23,000 --> 00:00:27,000
+This world is colorful and grand
+
+4
+00:00:27,000 --> 00:00:30,059
+Truth and falsehood blind our sight
+
+5
+00:00:30,059 --> 00:00:33,079
+Use your heart to truly see
+
+6
+00:00:33,079 --> 00:00:36,060
+The truth is not far away
+
+7
+00:00:36,060 --> 00:00:39,079
+Hey you good or bad, true or false
+
+8
+00:00:39,079 --> 00:00:42,100
+Can't escape the gray smoke in your soul
+
+9
+00:00:42,100 --> 00:00:45,079
+Take along all your bravery
+
+10
+00:00:45,079 --> 00:00:48,219
+Maybe then you'll save this world
+
+11
+00:00:48,219 --> 00:00:50,439
+Mojo Mojo Mojo Spy
+
+12
+00:00:50,439 --> 00:00:53,820
+Mojo Mojo Mojo Spy
+
+13
+00:00:53,820 --> 00:00:56,799
+Mojo Mojo Mojo Spy
+
+14
+00:00:56,800 --> 00:00:58,800
+Perfect 3000A
+
+15
+00:01:26,799 --> 00:01:28,799
+People inside, listen up! You're surrounded!
+
+16
+00:01:28,799 --> 00:01:30,799
+Drop your weapons and surrender now!
+
+17
+00:01:42,299 --> 00:01:44,299
+Brothers, boost the firepower!
+
+18
+00:01:44,299 --> 00:01:47,299
+Let these cops witness the might of the Gold Tooth Gang!
+
+19
+00:01:52,299 --> 00:01:54,799
+Damn, these guys have too much firepower!
+
+20
+00:01:54,799 --> 00:01:57,799
+They're arms smugglers—of course they're strong!
+
+21
+00:02:12,800 --> 00:02:14,800
+3000C, start the operation!
+
+22
+00:02:24,800 --> 00:02:33,000
+Dammit!
+
+23
+00:02:33,000 --> 00:02:37,660
+With moves like that...
+
+24
+00:02:37,660 --> 00:02:39,800
+Could they be the Combat Mech 3000 series?
+
+25
+00:02:39,800 --> 00:02:41,720
+It's the 3000 series!
+
+26
+00:02:41,720 --> 00:02:43,480
+It's the 3000 series!
+
+27
+00:02:43,720 --> 00:02:45,480
+It's a 3000C, a 3000C!
+
+28
+00:02:46,480 --> 00:02:49,280
+No matter what kind of monster you are,
+
+29
+00:02:49,280 --> 00:02:51,640
+You'll fall before my rocket launcher!
+
+30
+00:02:51,640 --> 00:02:53,420
+All of you, get up!
+
+31
+00:02:53,420 --> 00:02:55,900
+The monster's down!
+
+32
+00:02:55,900 --> 00:02:59,220
+Boss, look!
+
+33
+00:02:59,220 --> 00:03:00,420
+It's standing up again!
+
+34
+00:03:00,420 --> 00:03:05,460
+Damn it!
+
+35
+00:03:23,420 --> 00:03:28,620
+Quick! Quick, the ammo!
+
+36
+00:03:28,620 --> 00:03:31,240
+Coming, coming, coming!
+
+37
+00:03:31,240 --> 00:03:33,760
+Hawxing, you worthless piece of junk!
+
+38
+00:03:33,760 --> 00:03:46,320
+The boss is in trouble! Brothers, help out!
+
+39
+00:03:46,320 --> 00:03:52,780
+You idiots, I'm not dead yet!
+
+40
+00:03:52,780 --> 00:03:54,379
+Don't shoot at me!
+
+41
+00:03:55,379 --> 00:03:56,060
+Hawxing!
+
+42
+00:03:56,060 --> 00:03:57,020
+You idiot!
+
+43
+00:03:57,020 --> 00:03:58,020
+Quick, use that thing!
+
+44
+00:03:58,020 --> 00:03:58,860
+Hurry!
+
+45
+00:03:59,379 --> 00:04:00,379
+Boss, don't worry.
+
+46
+00:04:00,379 --> 00:04:01,740
+I'll definitely save you!
+
+47
+00:04:22,780 --> 00:04:31,580
+Hahahahaha! Poor cops, prepare to die!
+
+48
+00:04:31,580 --> 00:04:37,180
+Hahahahaha! The Golden Tooth Gang is invincible!
+
+49
+00:04:37,180 --> 00:04:39,380
+3000A unit, move out!
+
+50
+00:04:52,780 --> 00:04:57,620
+3000B, C-type combat robots, attention!
+
+51
+00:04:57,620 --> 00:04:59,740
+Mission deployment begins now.
+
+52
+00:04:59,740 --> 00:05:03,340
+500 milliseconds after the operation starts,
+
+53
+00:05:03,340 --> 00:05:06,340
+3000A itself will fire electronic jamming at the enemy.
+
+54
+00:05:06,340 --> 00:05:09,640
+3000C immediately charges at full speed from the target's left flank.
+
+55
+00:05:09,640 --> 00:05:12,740
+The target will fire a shotgun blast at 3000C.
+
+56
+00:05:12,740 --> 00:05:15,520
+The electronic jamming fired by 3000A itself
+
+57
+00:05:15,520 --> 00:05:17,340
+will affect the target's shooting accuracy.
+
+58
+00:05:17,340 --> 00:05:18,840
+Mission deployment complete.
+
+59
+00:05:18,340 --> 00:05:19,840
+Understood.
+
+60
+00:05:22,780 --> 00:05:25,780
+I am the most perfect, I will complete this mission flawlessly.
+
+61
+00:05:27,780 --> 00:05:28,780
+Operation start.
+
+62
+00:05:40,780 --> 00:05:41,780
+Now!
+
+63
+00:05:52,780 --> 00:05:54,780
+[Squid City News: The 3000 Series Cracks Major Cases in a Row!]
+
+64
+00:06:02,780 --> 00:06:04,780
+[Ketchup Daily: Large Machines Will Spread Across the World in a Few Years!]
+
+65
+00:06:04,780 --> 00:06:06,780
+[The Social Security Department Deploys the 3000 Series Robots Again to Bust International Smugglers.]
+
+66
+00:06:07,780 --> 00:06:10,780
+Now here is our station's street interview report with the public.
+
+67
+00:06:11,780 --> 00:06:12,780
+The 3000 series is amazing!
+
+68
+00:06:12,780 --> 00:06:14,780
+We'll never be afraid of cockroaches again!
+
+69
+00:06:16,780 --> 00:06:18,780
+Robots... robots are terrifying!
+
+70
+00:06:18,780 --> 00:06:21,780
+Will they wreck my new sports car?
+
+71
+00:06:21,780 --> 00:06:22,780
+I like Astro Boy.
+
+72
+00:06:23,780 --> 00:06:26,780
+These robots will destroy our city!
+
+73
+00:06:26,780 --> 00:06:29,780
+The 3000 series' design and attack methods are too clichéd.
+
+74
+00:06:29,780 --> 00:06:33,780
+Can't robots in cartoons be more innovative?
+
+75
+00:06:33,780 --> 00:06:36,780
+That's all for our report.
+
+76
+00:06:36,780 --> 00:06:38,780
+Thank you, dear viewers
+
+77
+00:06:40,780 --> 00:06:44,780
+Well, although this operation didn't catch smuggling boss Heidi
+
+78
+00:06:44,780 --> 00:06:48,780
+The 3000 Series' brave and bold attitude still deserves praise
+
+79
+00:06:48,780 --> 00:06:49,780
+Supervisor Chen
+
+80
+00:06:49,780 --> 00:06:50,980
+Yes, it deserves praise
+
+81
+00:06:50,980 --> 00:06:51,780
+Supervisor Chen
+
+82
+00:06:51,780 --> 00:06:53,360
+In the next operation
+
+83
+00:06:53,360 --> 00:06:55,820
+You and your 3000 Series
+
+84
+00:06:55,820 --> 00:06:57,000
+Must keep up the good work
+
+85
+00:06:57,000 --> 00:06:59,480
+Yes sir
+
+86
+00:06:59,480 --> 00:07:01,560
+Oh, right
+
+87
+00:07:01,560 --> 00:07:03,100
+One more thing
+
+88
+00:07:03,100 --> 00:07:05,620
+Don't get too tangled up with the media
+
+89
+00:07:05,620 --> 00:07:10,700
+This just in
+
+90
+00:07:10,700 --> 00:07:12,000
+The City Security Department
+
+91
+00:07:12,000 --> 00:07:13,860
+To protect public safety
+
+92
+00:07:13,860 --> 00:07:15,300
+Developed the 3000-model humanoid robot—
+
+93
+00:07:15,300 --> 00:07:17,220
+3000A, deploy!
+
+94
+00:07:18,300 --> 00:07:19,220
+—Last night, it successfully smashed the rampant arms-trafficking organization, the Golden Tooth Gang
+
+95
+00:07:20,220 --> 00:07:21,280
+Watch me!
+
+96
+00:07:21,280 --> 00:07:25,440
+3000A is here to save the world!
+
+97
+00:07:25,440 --> 00:07:31,540
+—The gang's two leaders vanished in the fierce battle
+
+98
+00:07:31,540 --> 00:07:33,720
+Watch me! I'll destroy you!
+
+99
+00:07:33,720 --> 00:07:37,300
+Dad!
+
+100
+00:07:37,300 --> 00:07:40,300
+Dad!
+
+101
+00:07:40,300 --> 00:07:43,300
+Be good, Hawxing.
+
+102
+00:07:43,300 --> 00:07:45,140
+Uncle Heidi accidentally got hurt.
+
+103
+00:07:45,140 --> 00:07:46,900
+He needs to rest here for a few days.
+
+104
+00:07:46,900 --> 00:07:51,980
+Get lost!
+
+105
+00:07:51,980 --> 00:07:55,140
+Boss, don't be angry.
+
+106
+00:07:55,140 --> 00:07:56,520
+Kids don't know any better.
+
+107
+00:07:56,520 --> 00:07:57,160
+According to reports,
+
+108
+00:07:57,160 --> 00:08:00,280
+this is the seventh time the 3000 series has completed a designated mission.
+
+109
+00:08:00,280 --> 00:08:02,340
+Squid City's Department of Public Security stated
+
+110
+00:08:02,340 --> 00:08:04,180
+that in the coming years,
+
+111
+00:08:04,180 --> 00:08:08,320
+they will develop and deploy more humanoid machines with different functions to society,
+
+112
+00:08:08,320 --> 00:08:11,080
+bringing more convenience to people's lives.
+
+113
+00:08:11,080 --> 00:08:14,400
+Dad, look!
+
+114
+00:08:14,400 --> 00:08:16,360
+The 3000A robot is so cool!
+
+115
+00:08:16,360 --> 00:08:20,360
+I never thought I'd be taken down by a few robots.
+
+116
+00:08:20,360 --> 00:08:22,360
+Damn it!
+
+117
+00:08:22,360 --> 00:08:23,360
+Robots.
+
+118
+00:08:23,360 --> 00:08:24,360
+From now on,
+
+119
+00:08:24,360 --> 00:08:27,360
+whoever mentions these damn robots in front of me,
+
+120
+00:08:27,360 --> 00:08:28,360
+I'll kill him.
+
+121
+00:08:31,360 --> 00:08:32,360
+Boss, don't be angry.
+
+122
+00:08:32,360 --> 00:08:34,360
+Kids don't know any better.
+
+123
+00:08:34,360 --> 00:08:35,360
+Cut the crap!
+
+124
+00:08:35,360 --> 00:08:37,360
+About you ordering the brothers to shoot me during the chaos last night,
+
+125
+00:08:37,360 --> 00:08:39,360
+I haven't settled the score with you yet.
+
+126
+00:08:39,360 --> 00:08:42,360
+Don't think I don't know anything
+
+127
+00:08:42,360 --> 00:08:44,360
+If you dare to pull any more tricks
+
+128
+00:08:44,360 --> 00:08:46,360
+Watch out, I'll take your son-
+
+129
+00:08:47,360 --> 00:08:48,360
+What are you looking at?
+
+130
+00:08:48,360 --> 00:08:49,360
+Go get me something to eat
+
+131
+00:08:53,360 --> 00:08:54,360
+Dad's going out
+
+132
+00:08:54,360 --> 00:08:56,360
+Hawxing, don't make Uncle Heidi angry
+
+133
+00:08:56,360 --> 00:08:57,360
+You hear me?
+
+134
+00:08:58,360 --> 00:08:59,360
+What are you dawdling for?
+
+135
+00:08:59,360 --> 00:09:00,360
+Well, hurry up!
+
+136
+00:09:14,360 --> 00:09:17,480
+Alright, that's our report
+
+137
+00:09:17,480 --> 00:09:18,399
+Thanks for watching
+
+138
+00:09:44,360 --> 00:10:14,340
+MojoSpy Discord: https://discord.gg/BkdRezCkxf
+
+139
+00:10:14,360 --> 00:10:20,180
+Bright eyes are sparkling
+
+140
+00:10:20,180 --> 00:10:23,560
+Smiles facing the sun
+
+141
+00:10:23,560 --> 00:10:28,139
+Bravely speak out what's cherished in your heart
+
+142
+00:10:28,139 --> 00:10:31,139
+That little touch of emotion
+
+143
+00:10:31,139 --> 00:10:35,580
+Music brings the morning breeze
+
+144
+00:10:35,580 --> 00:10:38,879
+Carrying away years of wishes
+
+145
+00:10:38,879 --> 00:10:44,139
+It will quietly settle in the deep silhouette
+
+146
+00:10:44,139 --> 00:10:51,819
+Quietly stepping at the crossroads of a thousand homes

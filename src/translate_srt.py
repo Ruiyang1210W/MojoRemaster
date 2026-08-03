@@ -57,6 +57,8 @@ SYSTEM_PROMPT = (
     "   - 鱼盆-> fish basin\n"
     "   - 迷雾竹林-> Misty Bamboo Grove\n"
     "   - 爆竹龙-> Firecracker Long\n"
+    "   - 海迪-> Heidi\n"
+    "   - 霍金-> Hawking\n"
 
     "4. Output ONLY the translated English lines. No explanations, no numbering, no prefix/suffix."
 )
