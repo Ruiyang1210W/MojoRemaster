@@ -1,0 +1,551 @@
+1
+00:00:00,000 --> 00:00:12,000
+Mojo Mojo Mojo Spy
+
+2
+00:00:12,000 --> 00:00:24,000
+Mojo Mojo Mojo Spy
+
+3
+00:00:24,000 --> 00:00:27,000
+This world is a riot of color
+
+4
+00:00:27,000 --> 00:00:30,000
+Truth and lies are clouding our eyes
+
+5
+00:00:30,000 --> 00:00:33,000
+Use your heart and truly see
+
+6
+00:00:33,000 --> 00:00:36,000
+You'll find the truth is not far away
+
+7
+00:00:36,000 --> 00:00:39,000
+Hey you could do better, truth and lies
+
+8
+00:00:39,000 --> 00:00:42,000
+You can't escape the gray smoke of the heart
+
+9
+00:00:42,000 --> 00:00:45,000
+Bring along all of your courage
+
+10
+00:00:45,000 --> 00:00:48,000
+Maybe then you can save this wish
+
+11
+00:00:48,000 --> 00:00:51,000
+Mojo Mojo Mojo Spy
+
+12
+00:00:51,000 --> 00:00:54,000
+Mojo Mojo Mojo Spy
+
+13
+00:00:54,000 --> 00:01:01,000
+Mojo Mojo Mojo Spy Mojo Spy
+
+14
+00:01:14,000 --> 00:01:17,000
+In the previous story, the evil organization, the Illumin-Eye, gathered many treasures:
+
+15
+00:01:17,000 --> 00:01:20,000
+Angel's Tear, Ugly Dog's Blood, Ocean Princess,
+
+16
+00:01:24,000 --> 00:01:24,719
+Lamenting Voice, Heart of Vitality,
+
+17
+00:01:25,640 --> 00:01:28,599
+Kolitas Flower and Eternal Flame.
+
+18
+00:01:29,500 --> 00:01:31,680
+They planned, according to the Illumin Doctrine's instructions,
+
+19
+00:01:32,219 --> 00:01:34,599
+to use these treasures to open the Gate of Civilization.
+
+20
+00:01:35,939 --> 00:01:39,659
+The only clue left for Locky and the others was a photo left behind by Tolrus.
+
+21
+00:01:40,900 --> 00:01:43,379
+Can they stop the Illumin-Eye's scheme?
+
+22
+00:01:46,900 --> 00:01:48,200
+The Ark Ceremony
+
+23
+00:01:48,200 --> 00:02:00,219
+After a long night of waiting,
+
+24
+00:02:00,219 --> 00:02:02,780
+enduring countless hardships,
+
+25
+00:02:02,780 --> 00:02:04,879
+we have finally arrived.
+
+26
+00:02:04,879 --> 00:02:07,140
+This dawn of hope
+
+27
+00:02:07,140 --> 00:02:09,039
+I am honored to announce
+
+28
+00:02:09,039 --> 00:02:13,920
+All the offerings needed to open the Gate of Civilization
+
+29
+00:02:13,920 --> 00:02:18,580
+have been collected in full
+
+30
+00:02:24,599 --> 00:02:25,500
+My faithful followers
+
+31
+00:02:25,500 --> 00:02:27,640
+Your tireless labor
+
+32
+00:02:27,640 --> 00:02:29,900
+has moved even the heavens themselves
+
+33
+00:02:29,900 --> 00:02:31,660
+Blessed be his grace
+
+34
+00:02:31,660 --> 00:02:34,040
+The greatest day in history
+
+35
+00:02:34,040 --> 00:02:35,300
+has finally arrived
+
+36
+00:02:35,300 --> 00:02:37,740
+To open the Gate of Civilization
+
+37
+00:02:37,740 --> 00:02:39,820
+that brings love and ideals to the world
+
+38
+00:02:39,820 --> 00:02:41,900
+we spared no blood or sacrifice
+
+39
+00:02:41,979 --> 00:02:45,000
+This merit shall be sung by generations to come
+
+40
+00:02:45,000 --> 00:02:46,959
+A world free of deceit
+
+41
+00:02:46,959 --> 00:02:48,500
+free of rampant materialism
+
+42
+00:02:48,500 --> 00:02:50,000
+where all are equal
+
+43
+00:02:50,000 --> 00:02:51,839
+where all despise filthy desires
+
+44
+00:02:51,839 --> 00:02:53,099
+a pure new world
+
+45
+00:02:53,099 --> 00:02:55,599
+will be forged by our own hands
+
+46
+00:02:55,599 --> 00:02:57,519
+And we are the saviors
+
+47
+00:02:57,519 --> 00:02:59,000
+the gods rising from this mire
+
+48
+00:02:59,000 --> 00:03:01,159
+Our great cause of love and ideals
+
+49
+00:03:01,159 --> 00:03:03,099
+will awe the entire world
+
+50
+00:03:03,099 --> 00:03:05,000
+It will be etched into the annals of history forever
+
+51
+00:03:05,000 --> 00:03:08,079
+Passed down through generations in people's hearts.
+
+52
+00:03:08,079 --> 00:03:09,259
+Good.
+
+53
+00:03:09,259 --> 00:03:13,819
+Then let's begin preparing the sacred ritual.
+
+54
+00:03:21,800 --> 00:03:21,979
+During the fierce battle in the golden monkey incident,
+
+55
+00:03:21,979 --> 00:03:24,239
+we accidentally got the photo Dorothy dropped—
+
+56
+00:03:24,239 --> 00:03:25,840
+a group photo from inside The Illumin-Eye.
+
+57
+00:03:25,840 --> 00:03:27,399
+The photo shows
+
+58
+00:03:27,399 --> 00:03:29,459
+that The Illumin-Eye's true lair
+
+59
+00:03:29,459 --> 00:03:32,859
+is hidden in some supermarket in Tuna Town.
+
+60
+00:03:39,259 --> 00:03:43,340
+The Illumin-Eye has already stolen seven items of divine power.
+
+61
+00:03:43,340 --> 00:03:45,899
+I bet they're following The Illumin Doctrine
+
+62
+00:03:45,899 --> 00:03:48,539
+and getting ready for the final evil ritual.
+
+63
+00:03:48,539 --> 00:03:50,739
+We're running out of time.
+
+64
+00:03:50,739 --> 00:03:54,199
+We have to find their hidden supermarket lair as soon as possible
+
+65
+00:03:54,199 --> 00:03:55,759
+and stop their last scheme.
+
+66
+00:03:55,759 --> 00:03:57,239
+That's true,
+
+67
+00:03:57,239 --> 00:03:59,199
+but there must be hundreds of supermarkets here.
+
+68
+00:03:59,199 --> 00:04:01,000
+How are we supposed to find it?
+
+69
+00:04:01,000 --> 00:04:04,840
+The best way is to search them one by one.
+
+70
+00:04:04,840 --> 00:04:07,859
+Let's start with the Tuna Supermarket next door.
+
+71
+00:04:07,860 --> 00:04:10,700
+This time, we'll catch those fiends and bring them to justice.
+
+72
+00:04:10,700 --> 00:04:13,500
+Captain, I'll gather the team.
+
+73
+00:04:28,500 --> 00:04:30,100
+Hello! Please support us, The Illumin-Eye!
+
+74
+00:04:30,100 --> 00:04:33,840
+The Illumin-Eye will transform the world into a pure, beautiful place.
+
+75
+00:04:33,840 --> 00:04:35,780
+Hello! Please support The Illumin-Eye!
+
+76
+00:04:35,780 --> 00:04:38,640
+The Illumin-Eye will bring you love and dreams!
+
+77
+00:04:38,640 --> 00:04:39,200
+Thanks!
+
+78
+00:04:39,200 --> 00:04:40,120
+Hello!
+
+79
+00:04:40,120 --> 00:04:40,960
+Hello!
+
+80
+00:04:40,960 --> 00:04:42,600
+Please support our Illumin-Eye!
+
+81
+00:04:44,600 --> 00:04:46,500
+Then hold more sales!
+
+82
+00:04:46,500 --> 00:04:53,640
+Hello!
+
+83
+00:04:53,640 --> 00:04:55,400
+Please support our Illumin-Eye!
+
+84
+00:04:59,399 --> 00:05:00,760
+Hey there, kid!
+
+85
+00:05:00,760 --> 00:05:02,780
+Be a big supporter of the Illumin-Eye, okay?
+
+86
+00:05:02,780 --> 00:05:03,220
+It's you!
+
+87
+00:05:03,220 --> 00:05:04,840
+What are you doing here?!
+
+88
+00:05:09,800 --> 00:05:10,920
+Don't tell me your hideout is this supermarket right next to the police station?!
+
+89
+00:05:10,920 --> 00:05:15,160
+The most dangerous place is often the safest.
+
+90
+00:05:15,160 --> 00:05:17,560
+You didn't see that coming, did you?
+
+91
+00:05:17,560 --> 00:05:19,860
+You snake in the grass!
+
+92
+00:05:19,860 --> 00:05:21,140
+Last time you played us for fools!
+
+93
+00:05:21,140 --> 00:05:22,500
+Now you're trying to escape?!
+
+94
+00:05:22,500 --> 00:05:28,120
+Darn it!
+
+95
+00:05:38,800 --> 00:05:40,820
+Officer, is that all you've got?
+
+96
+00:05:50,800 --> 00:05:51,660
+No more tricks!
+
+97
+00:06:00,840 --> 00:06:01,540
+Oh no!
+
+98
+00:06:01,540 --> 00:06:03,040
+Go! Surround him!
+
+99
+00:06:03,040 --> 00:06:17,400
+Look! Miss MU and her rumored boyfriend are shopping at the supermarket!
+
+100
+00:06:33,040 --> 00:06:36,560
+Here they come!
+
+101
+00:06:36,560 --> 00:06:39,319
+Dorothy, are you ready?
+
+102
+00:06:39,319 --> 00:06:42,220
+Rest assured, Lord Eye.
+
+103
+00:06:52,120 --> 00:06:54,820
+The Illumin-Eye! Surrender to us now!
+
+104
+00:06:54,820 --> 00:06:57,780
+Today is the end of you rotten villains!
+
+105
+00:07:27,780 --> 00:07:28,780
+Help!
+
+106
+00:07:28,780 --> 00:07:29,780
+Help!
+
+107
+00:07:29,780 --> 00:07:30,780
+Help!
+
+108
+00:07:30,780 --> 00:07:31,780
+Help!
+
+109
+00:08:03,800 --> 00:08:04,700
+The Great Light Ark—
+
+110
+00:08:04,700 --> 00:08:06,540
+is born!
+
+111
+00:08:21,500 --> 00:08:23,080
+The moment has finally come!
+
+112
+00:08:23,080 --> 00:08:24,700
+Actually, sometimes
+
+113
+00:08:24,700 --> 00:08:27,620
+the end of the world doesn’t feel too bad.
+
+114
+00:08:27,620 --> 00:08:33,440
+Now I’ve fully unleashed the energy of all seven sacrifices!
+
+115
+00:08:33,440 --> 00:08:34,980
+Brilliant, Lord Eye!
+
+116
+00:08:55,600 --> 00:08:57,720
+Mm. Use these divine sacrifices
+
+117
+00:08:57,720 --> 00:09:01,040
+to wipe out those ugly parasites!
+
+118
+00:09:01,040 --> 00:09:04,500
+Fail this time, and don’t come back.
+
+119
+00:09:04,500 --> 00:09:04,840
+Yes, Lord Eye.
+
+120
+00:09:15,799 --> 00:09:16,580
+There’s nothing quite like
+
+121
+00:09:16,580 --> 00:09:20,780
+one soul, lonely and alone.
+
+122
+00:09:20,780 --> 00:09:24,220
+Life, after all,
+
+123
+00:09:24,220 --> 00:09:28,680
+is bound to hold some sorrow.
+
+124
+00:09:28,680 --> 00:09:31,820
+Saying goodbye to today
+
+125
+00:09:31,820 --> 00:09:36,220
+always leaves us feeling lost.
+
+126
+00:09:36,220 --> 00:09:39,600
+Look at tomorrow
+
+127
+00:09:39,600 --> 00:09:44,040
+Waving to me at the horizon
+
+128
+00:09:44,040 --> 00:09:47,700
+Every day is just sunrise and sunset
+
+129
+00:09:47,700 --> 00:09:51,680
+Turning through time, dreaming of more
+
+130
+00:09:51,680 --> 00:09:54,180
+Hoping that in life
+
+131
+00:09:54,180 --> 00:09:56,720
+every second, every moment
+
+132
+00:09:56,720 --> 00:10:03,440
+bright eyes will keep shining
+
+133
+00:10:03,440 --> 00:10:06,820
+with a smile that meets the sun
+
+134
+00:10:06,820 --> 00:10:14,420
+Bravely speak the little feeling treasured deep inside your heart
+
+135
+00:10:14,420 --> 00:10:18,840
+A morning breeze blows in
+
+136
+00:10:18,840 --> 00:10:22,139
+and carries away the wishes of all these years
+
+137
+00:10:22,139 --> 00:10:27,419
+It will quietly arrive at the crossing of Thousand Shores Station
+
+138
+00:10:27,419 --> 00:10:35,139
+It will quietly arrive at the crossing of Thousand Shores Station
